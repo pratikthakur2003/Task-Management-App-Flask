@@ -21,14 +21,16 @@ https://github.com/user-attachments/assets/05f4aa48-81b2-42a3-98eb-914ed355ebb1
   - Delete a task.
 - **Validation**:
   - Ensures required fields are provided when creating a task.
-- **Error Handling**:
-  - Returns appropriate HTTP status codes for missing or invalid data.
+- **Responsive**:
+  - The app shows tasks in Table format on Large screens and in Card format on Smaller screens.
+- **Filters**:
+  - Filters the task according to option selected(All, Pending, Complete).
 
 ## Tech Stack
 
 - **Backend**: Flask (Python)
 - **Frontend**: HTML, CSS, JavaScript
-- **Database**: SQLAlchemy (with SQLite or any other supported database)
+- **Database**: sqlite3
 - **API Specification**: RESTful API
 
 ## Installation
@@ -36,11 +38,10 @@ https://github.com/user-attachments/assets/05f4aa48-81b2-42a3-98eb-914ed355ebb1
 - **Clone the repository**:
   ```bash
   git clone https://github.com/your-username/task-management-app-flask.git
-  cd task-management-app-flask
   ```
-- **Install all dependencies**:
+- **Move into the Directory**
   ```bash
-  pip install -r requirements.txt
+  cd task-management-app-flask
   ```
 - **Create a Virtual Enviroment**:
   ```bash
@@ -49,6 +50,10 @@ https://github.com/user-attachments/assets/05f4aa48-81b2-42a3-98eb-914ed355ebb1
 - **Start the Virtual Environment**:
   ```bash
   .\env\Scripts\activate
+  ```
+- **Install all dependencies**:
+  ```bash
+  pip install -r requirements.txt
   ```
 - **Run the Flask App**:
   ```bash
