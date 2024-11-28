@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/05f4aa48-81b2-42a3-98eb-914ed355ebb1
 
 - **Clone the repository**:
   ```bash
-  git clone https://github.com/your-username/Task-Management-App-Flask.git
+  git clone https://github.com/pratikthakur2003/Task-Management-App-Flask.git
   ```
 - **Move into the Directory**
   ```bash
