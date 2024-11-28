@@ -41,7 +41,7 @@ https://github.com/user-attachments/assets/05f4aa48-81b2-42a3-98eb-914ed355ebb1
   ```
 - **Move into the Directory**
   ```bash
-  cd task-management-app-flask
+  cd Task-Management-App-Flask
   ```
 - **Create a Virtual Enviroment**:
   ```bash
