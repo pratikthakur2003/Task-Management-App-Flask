@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/05f4aa48-81b2-42a3-98eb-914ed355ebb1
 
 - **Backend**: Flask (Python)
 - **Frontend**: HTML, CSS, JavaScript
-- **Database**: sqlite3, SQLAlchemy
+- **Database**: SQLAlchemy
 - **API Specification**: RESTful API
 
 ## Installation
