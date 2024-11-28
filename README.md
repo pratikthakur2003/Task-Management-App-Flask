@@ -6,6 +6,12 @@ This is a responsive and user-friendly **Task Management APP** built with Flask.
 
 ## Preview
 
+
+
+https://github.com/user-attachments/assets/05f4aa48-81b2-42a3-98eb-914ed355ebb1
+
+
+
 ## Features
 
 - **CRUD Operations**:
